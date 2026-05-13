@@ -6,7 +6,9 @@
 
 ### 👨‍💻 About Me
 I am a **passionate realist** and a student at **VIGNAN**, dedicated to building functional, real-world applications. I enjoy exploring the intersection of mobile development and data science.
+Currently in a long-distance relationship with my own creativity. My GPU does the thinking, the AI does the coding, and I’m just here to make sure the **README** looks good and the **'Deploy'** button gets clicked.
 
+**Status:** Efficiently becoming obsolete while building the tools that do it.
 - 🚀 **Currently working on:** [DEXPENSE app](https://github.com/rakesh774/dexpense) - a smart way to track your finances.
 - 🌱 **Learning:** Deep diving into **R** and advanced **MySQL** optimization.
 - 💬 **Talk to me about:** React Native, Java, and Web Development.
